@@ -1,6 +1,5 @@
 {
 "name": "landing-page",
 "compatibility_date": "2025-05-06",
-"assets": {
-"directory": "./dist"
+"assets": {"directory": "./dist"}
 }
